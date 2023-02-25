@@ -1,2 +1,2 @@
-# Aplicativo Django
-Aprendendo Django
+# Aplicativo Flask
+Aprendendo Flask
